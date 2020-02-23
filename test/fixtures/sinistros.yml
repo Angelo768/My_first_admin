@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  preco: 9.99
+  status: false
+  tipo: 1
+  descrição: MyText
+  aluguel: one
+
+two:
+  preco: 9.99
+  status: false
+  tipo: 1
+  descrição: MyText
+  aluguel: two
